@@ -1,15 +1,9 @@
 [build]
-<<<<<<< HEAD
 base = "react-case-converter-master/"
 publish = "react-case-converter-master/build/"
-command = "npm run build"
+command = "yarn build"
 
 [[redirects]]
 from = "/*"
 to = "/index.html"
 status = 200
-=======
-base = "myapp/"
-publish = "myapp/build/"
-command = "yarn build"
->>>>>>> 44aa10c5436dab0be07c2fc9e70d7b3d01495923
