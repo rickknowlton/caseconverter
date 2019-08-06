@@ -1,7 +1,7 @@
 [build]
-base = "react-case-converter-master/"
-publish = "react-case-converter-master/build/"
-command = "yarn build"
+base = "public/"
+publish = "public/build/"
+command = "npm run build"
 
 [[redirects]]
 from = "/*"
