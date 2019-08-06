@@ -1,0 +1,4 @@
+[build]
+base = "caseconverter/"
+publish = "caseconverter/build/"
+command = "npm run deploy"
