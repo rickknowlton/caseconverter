@@ -1,4 +1,4 @@
 [build]
-base = "caseconverter/"
-publish = "caseconverter/build/"
+base = "react-case-converter/"
+publish = "react-case-converter/build/"
 command = "npm run deploy"
