@@ -1,4 +1,9 @@
 [build]
-base = "caseconverter/"
-publish = "caseconverter/build/"
-command = "npm run deploy"
+base = "react-case-converter-master/"
+publish = "react-case-converter-master/build/"
+command = "npm run build"
+
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
