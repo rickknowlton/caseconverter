@@ -27,6 +27,6 @@ export function uppercase(text, lang = 'EN-us') {
     return text.toLocaleUpperCase(lang);
 }
 
-export function lovercase(text, lang = 'EN-us') {
+export function lowercase(text, lang = 'EN-us') {
     return text.toLocaleLowerCase(lang);
 }

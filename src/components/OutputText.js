@@ -1,5 +1,5 @@
 import React, {Component, Fragment} from 'react';
-import {sentence, title, uppercase, lovercase} from '../helpers/convertText';
+import {sentence, title, uppercase, lowercase} from '../helpers/convertText';
 
 class OutputText extends Component {
 
@@ -12,7 +12,7 @@ class OutputText extends Component {
         this.sentence = sentence;
         this.title = title;
         this.uppercase = uppercase;
-        this.lovercase = lovercase;
+        this.lowercase = lowercase;
 
         this.textElement = React.createRef();
     }

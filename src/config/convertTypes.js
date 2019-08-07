@@ -15,9 +15,9 @@ const convertTypes = {
             label: 'UPPERCASE LETTER',
             value: 'uppercase'
         },
-        lovercase: {
+        lowercase: {
             label: 'lower case',
-            value: 'lovercase'
+            value: 'lowercase'
         },
     }
 }
