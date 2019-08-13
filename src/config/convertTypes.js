@@ -12,7 +12,7 @@ const convertTypes = {
             value: 'title'
         },
         uppercase: {
-            label: 'UPPERCASE LETTER',
+            label: 'UPPERCASE',
             value: 'uppercase'
         },
         lowercase: {

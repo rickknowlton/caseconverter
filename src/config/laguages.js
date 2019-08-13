@@ -1,9 +1,5 @@
 const languages = {
     langs: {
-        turkish : {
-            label: 'Türkçe',
-            langCode : 'tr-TR',
-        },
         english : {
             label: 'English',
             langCode : 'en-US',
